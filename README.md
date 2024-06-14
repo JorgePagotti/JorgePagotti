@@ -7,7 +7,7 @@ Olá, meu nome é Jorge Pagotti sou programador Front-end, atualmente estou apre
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css-Logo" />
 
 - Também se familiarizando com o  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt ="logo-git" />
-- E Dando início no aprendizado de JavaScrript e React
+- E Dando início no aprendizado de JavaScrript e React para desenvolvimentos de projetos com melhor dinâmica e mesclagem do conhecimento das linguagens,
    Vou estar deixando por aqui alguns projetos e fazer
   uma linha do tempo de minha evolução. :rocket:
   <br>
